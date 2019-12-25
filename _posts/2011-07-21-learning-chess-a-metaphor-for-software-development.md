@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Learning Chess: A Metaphor for Software Development'
+date: '2011-07-21 02:15:37 -0400'
+date_gmt: '2011-07-21 02:15:37 -0400'
+categories:
+- Uncategorized
+---
+I'd never learned how to play chess, although I'd always been intrigued by the game. For some reason it had seemed inaccessible to me. Perhaps it was that when I was a child I perceived it as a game only for adults, or perhaps it just seemed too incomprehensible with the arcane rules and odd playing pieces. However, one day I was in a toy store with my son, who was seven at the time, saw a chess game and decided on a whim to buy it. It was only $3.99 and I felt there was little to lose and learning how to play might actually be a good experience for both of us.
+
+When we got home I became busy with other chores and put the game aside. It was my son, however, who was eager to learn chess and kept bugging me about wanting to play the game, "Dad, when are we going to play chess?", "Uh, maybe after dinner..." Honestly, I was still a bit intimidated since I knew nothing about the game and dads are supposed to know everything, right? Anyway, after he'd asked me for what seemed like the umpteenth time, I finally sat down with him and opened the box. My son busied himself with the board and playing pieces while I tried to comprehend the instructions included in the box. After reading the instructions over several times to myself I concluded that this wasn't going to work so I turned to the next best thing, Google.
+
+We watched several video tutorials on-line about playing chess, but still I wasn't confident that I understood the game well enough. So I decided I would visit the library and take out some books that were geared toward the beginning learner. That's where I discovered
+[Starting Chess](https://www.amazon.com/Starting-Chess-Skills-Harriet-Castor/dp/079450115X/ref=sr_1_1?ie=UTF8&amp;qid=1311213954&amp;sr=8-1 "Starting Chess"){:target="_blank"} which turned out to be the best introduction to Chess that I've come across.
+
+Each chapter introduces a new playing piece. Once you've learned about the pawns, queen and king you're encouraged to play your first game. Now this was a revelation... You can play chess with only the pawns, queen and king? Amazing! This was a great way to get started since we had *minimized the complexity* of playing a game. Instead of having to understand how six different types of chess pieces can move, and having 16 pieces to keep track of, now we only had to understand how three different types of chess pieces moved and we had only ten pieces (each) on the board. My son and I played several games this way, and it was actually a lot of fun. We were really enjoying ourselves. After that, we moved to the next chapter and learned about another playing piece, the rook, which we then included in the next game we played. In this way we gradually became familiar with each playing piece and how they could move and what they were capable of doing. Within a week we were playing chess with a complete set of pieces! Unsurprisingly, my son quickly became proficient at playing chess and starting wiping the floor with me...
+
+So what does this have to do with software development? Quite a lot, actually. Often I'll be confronted with a task that may seem insurmountable. How can I get from here to there? The system must accomplish so many things that it may at first appear dizzying. The way that I get around this is by breaking this down into smaller problems, *minimizing the complexity*. Often I'll create small test applications that help me to prove out a certain subset of functionality as I design the system. Just like learning chess by playing a game with only three of the six pieces, I often must ask myself, what is the minimum set of functionality that must be developed in order to get a working application? Once that has been established I can continue to build from there, adding functionality.
+
+It is my goal in this blog to explore software development, by actually developing software applications! Yes, I know, amazing... I'll apply the same principle of minimizing complexity so that we can get a working application up and running. Then I'll gradually build on this to flesh out the complete system. Along the way I'll be discussing my thought process. Inevitably different people will arrive at different solutions to the same problem, which is what makes software development so interesting. That's why I'll try to explain how I arrived at a certain solution. Feel free to follow along, and please feel free to comment if you have any questions or suggestions! I'm open to new ideas, especially since what I hope to do here is explore technologies that I'm not familiar with and don't normally get a chance to use in my day job.
+
+So, let's get started...
