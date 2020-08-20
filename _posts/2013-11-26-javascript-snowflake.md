@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: JavaScript Snowflake
 date: '2013-11-26 20:57:31 -0500'
 date_gmt: '2013-11-27 01:57:31 -0500'

@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: Step Away from the Keyboard
 date: '2011-08-05 03:27:41 -0400'
 date_gmt: '2011-08-05 03:27:41 -0400'

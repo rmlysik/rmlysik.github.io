@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: You're in a Forest
 date: '2011-07-22 02:50:36 -0400'
 date_gmt: '2011-07-22 02:50:36 -0400'

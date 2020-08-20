@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: Scratch Day 2012 @ MIT
 date: '2012-06-04 22:30:26 -0400'
 date_gmt: '2012-06-05 02:30:26 -0400'

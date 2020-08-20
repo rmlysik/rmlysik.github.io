@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: I've Finished the Ruby on Rails Tutorial...Now What?
 date: '2012-05-10 23:30:32 -0400'
 date_gmt: '2012-05-11 03:30:32 -0400'

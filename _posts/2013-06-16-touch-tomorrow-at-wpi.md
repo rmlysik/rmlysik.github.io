@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: Touch Tomorrow at WPI
 date: '2013-06-16 09:43:56 -0400'
 date_gmt: '2013-06-16 13:43:56 -0400'

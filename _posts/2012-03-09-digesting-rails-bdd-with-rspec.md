@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Digesting Rails: BDD with RSpec'
 date: '2012-03-09 00:19:26 -0500'
 date_gmt: '2012-03-09 05:19:26 -0500'

@@ -26,17 +26,30 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robertlysik.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: robertlysik
 github_username:  rmlysik
+minimal_mistakes_skin: default
+search: true
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-defaults:
-  - scope:
-      path: "images"
-    values:
-      image: true
+include:
+  - _pages
+
+# theme: minima
+# plugins:
+#   - jekyll-feed
+
+# defaults:
+#   - scope:
+#       path: "images"
+#     values:
+#       image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -57,3 +70,63 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Robert Lysik"
+  avatar : "/images/posts/2012/02/Robert.jpg"
+  bio    : "Software developer"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.robertlysik.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RobertLysik"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rmlysik"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RobertLysik"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rmlysik"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

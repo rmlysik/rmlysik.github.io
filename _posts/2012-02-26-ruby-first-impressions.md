@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Ruby: First Impressions'
 date: '2012-02-26 21:14:36 -0500'
 date_gmt: '2012-02-27 02:14:36 -0500'

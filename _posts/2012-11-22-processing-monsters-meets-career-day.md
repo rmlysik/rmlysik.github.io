@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: Processing Monsters Meets Career Day
 date: '2012-11-22 17:53:42 -0500'
 date_gmt: '2012-11-22 22:53:42 -0500'

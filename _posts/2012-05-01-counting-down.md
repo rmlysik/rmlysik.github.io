@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: Counting Down
 author_url: http://robertlysik.com
 date: '2012-05-01 23:23:22 -0400'

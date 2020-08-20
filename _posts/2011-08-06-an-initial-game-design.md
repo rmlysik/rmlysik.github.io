@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: An Initial Game Design
 date: '2011-08-06 16:58:51 -0400'
 date_gmt: '2011-08-06 16:58:51 -0400'

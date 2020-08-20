@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Learning Chess: A Metaphor for Software Development'
 date: '2011-07-21 02:15:37 -0400'
 date_gmt: '2011-07-21 02:15:37 -0400'

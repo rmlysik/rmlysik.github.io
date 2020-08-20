@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: 3.times { puts "go!" }
 date: '2012-02-23 04:05:13 -0500'
 date_gmt: '2012-02-23 04:05:13 -0500'

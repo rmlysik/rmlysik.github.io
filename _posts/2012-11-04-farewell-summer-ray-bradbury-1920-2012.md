@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: Farewell Summer - Ray Bradbury 1920 - 2012
 date: '2012-11-04 09:27:38 -0500'
 date_gmt: '2012-11-04 14:27:38 -0500'

@@ -1,7 +1,4 @@
 ---
-layout: post
-status: publish
-published: true
 title: Happy Carl Sagan Day!
 date: '2012-11-09 18:59:24 -0500'
 date_gmt: '2012-11-09 23:59:24 -0500'
