@@ -41,16 +41,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# theme: minima
-# plugins:
-#   - jekyll-feed
-
-# defaults:
-#   - scope:
-#       path: "images"
-#     values:
-#       image: true
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
