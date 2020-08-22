@@ -23,7 +23,7 @@ email: hello@robertlysik.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://robertlysik.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.robertlysik.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: robertlysik
 github_username:  rmlysik
 minimal_mistakes_skin: default
@@ -85,6 +85,13 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rmlysik"
 
+repository  : "rmlysik/rmlysik.github.io"
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "master"
+    endpoint  : "https://lysik-blog-staticman.herokuapp.com/v3/entry/github/"
+
 footer:
   links:
     - label: "Twitter"
@@ -120,3 +127,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+  
