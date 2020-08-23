@@ -14,3 +14,7 @@ comments:
   requiredFields     : ["name", "email", "message"]
   transforms:
     email            : md5
+  reCaptcha:
+    enabled: true
+    siteKey: 6LcUXMIZAAAAALbYkS-lvTBUTkLDiEElbXsxkk6E
+    secret: 5n+1zSYsAX5Pa1i2dTkyBcOcuYoXlZpg73tvmYOfT2DbPDQMIftp8NCh3GqVyMJn3z2SzobwfGoQm9fF1DFytLboe03Dxiw+DAQPqJ205LD7x18uU14DR3MR5LMRcQjboDHVID4lvhB254N4glW4nskNLotvMMcd1G5PTWe8x5GyFpkTlu6KOivSBGwqbWC1YeUgC/jvhBXn/tgzbcKV+NG5iSzbbm3yCtAnSecKSy4Tii5Bjn9klHCXDb9T73nulHl2XYzgNrlhv6WJSNPW2sZ+twowfhO3xi3pHwPn0ADdKcihpKsoZSt0aSS02YvhRMVrCkO5hjtfgwcRjNMWs+qENr8GpV3MnmBr7w5gV2rcwfDjjh/iVNK+AU4As94p3RSj33g8awH0Djx7xy97ayICx+NQ0h3d/Whv5ImVnMS8zA7h/BlIOqUHdDpcx+IHrpcATDnvvvpGN3Bl/xcxxK2ivynwmuSxenfUcZyxZwXBAWjuSLv503GEUBOJV5oe0+hsCRCXnWPrEkpYBsAA9TFhv7TvrZpC25RIvDkuEH6iUms4wSmA93EMAReEVTuVU2jPwHZLC70i/yFJmZVbl5B1zlb+ISZR1wHgEfapXgRjSEO0H1PqXcCNYAKgfqAKChZUyGxGAqKW5Ipe9Oekvm0dUbG67WzOgT1yUF2BD8k=
