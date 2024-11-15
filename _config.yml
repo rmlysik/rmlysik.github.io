@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Software developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.robertlysik.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: robertlysik
 github_username:  rmlysik
 minimal_mistakes_skin: default
 search: true
@@ -78,9 +77,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.robertlysik.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/RobertLysik"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/robertlysik.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rmlysik"
@@ -98,9 +97,9 @@ reCaptcha:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/RobertLysik"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/robertlysik.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rmlysik"
